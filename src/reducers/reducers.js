@@ -1,4 +1,3 @@
-import { SAVE_COMMENT } from 'actions/types';
 import { FETCH_PAGE } from 'actions/types';
 
 export default (state = { team: '' }, action) => {
